@@ -1,0 +1,40 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: Century Gothic;
+}
+
+
+header {
+    width: 100%;
+    height: 90px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: rgb(131, 127, 207);
+ 
+
+}
+
+
+#name-header {
+    color: rgb(60, 41, 103);
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+#name{
+   
+    font-weight: bold;
+}
+#picture{
+   
+    text-align: center;
+    
+}
+
+
